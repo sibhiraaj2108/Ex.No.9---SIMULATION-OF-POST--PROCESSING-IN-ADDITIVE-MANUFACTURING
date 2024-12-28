@@ -49,7 +49,7 @@
 ![326363659-3dc736a1-6de0-4967-a972-8b075b47939d](https://github.com/user-attachments/assets/ec1777dd-26fa-43a2-b764-9014c9ef7858)
 
 ### Name:
-### Register Number:
+### Register Number: 24010177
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
